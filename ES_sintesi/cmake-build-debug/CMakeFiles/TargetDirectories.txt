@@ -1,0 +1,3 @@
+C:/Users/aleba/OneDrive/Documenti/SCUOLA/QUARTA/TPSIT/LAB/ES_sintesi/cmake-build-debug/CMakeFiles/ES_sintesi.dir
+C:/Users/aleba/OneDrive/Documenti/SCUOLA/QUARTA/TPSIT/LAB/ES_sintesi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleba/OneDrive/Documenti/SCUOLA/QUARTA/TPSIT/LAB/ES_sintesi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
