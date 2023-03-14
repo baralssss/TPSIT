@@ -1,0 +1,3 @@
+C:/Users/aleba/OneDrive/Documenti/SCUOLA/QUARTA/TPSIT/TEORIA/STRUTTURE_DATI/ES_inserimentoCODAA/cmake-build-debug/CMakeFiles/ES_inserimentoCODAA.dir
+C:/Users/aleba/OneDrive/Documenti/SCUOLA/QUARTA/TPSIT/TEORIA/STRUTTURE_DATI/ES_inserimentoCODAA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleba/OneDrive/Documenti/SCUOLA/QUARTA/TPSIT/TEORIA/STRUTTURE_DATI/ES_inserimentoCODAA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

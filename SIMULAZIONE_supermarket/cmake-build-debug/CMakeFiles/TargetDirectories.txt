@@ -1,0 +1,3 @@
+C:/Users/aleba/OneDrive/Documenti/SCUOLA/QUARTA/TPSIT/TEORIA/CODE/SIMULAZIONE_supermarket/cmake-build-debug/CMakeFiles/SIMULAZIONE_supermarket.dir
+C:/Users/aleba/OneDrive/Documenti/SCUOLA/QUARTA/TPSIT/TEORIA/CODE/SIMULAZIONE_supermarket/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleba/OneDrive/Documenti/SCUOLA/QUARTA/TPSIT/TEORIA/CODE/SIMULAZIONE_supermarket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
